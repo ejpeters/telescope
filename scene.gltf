@@ -129,10 +129,10 @@
   ],
   "images": [
     {
-      "uri": "textures/material_0_baseColor.jpeg"
+      "uri": "material_0_baseColor.jpeg"
     },
     {
-      "uri": "textures/material_0_metallicRoughness.png"
+      "uri": "material_0_metallicRoughness.png"
     }
   ],
   "materials": [
